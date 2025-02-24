@@ -143,7 +143,7 @@ y_test_actual = y_scaler.inverse_transform(y_test)
    plt.show()
    ```
 
-   ![Train vs Test Data](train_vs_test.png) *Replace with actual plot from your notebook.*
+   ![Train vs Test Data](photo/p2.png) 
 
 ### 3. **Real vs Predicted Salaries**
    ```python
@@ -153,7 +153,7 @@ y_test_actual = y_scaler.inverse_transform(y_test)
    plt.show()
    ```
 
-   ![Real vs Predicted Salaries](real_vs_predict.png) *Replace with actual plot from your notebook.*
+   ![Real vs Predicted Salaries](photo/p3.png) 
 
 ---
 
