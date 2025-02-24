@@ -133,7 +133,7 @@ y_test_actual = y_scaler.inverse_transform(y_test)
    plt.show()
    ```
 
-   ![Experience vs Salary](../photo/p1.png) *Replace with actual plot from your notebook.*
+   ![Experience vs Salary](photo/p1.png) 
 
 ### 2. **Train vs Test Data**
    ```python
